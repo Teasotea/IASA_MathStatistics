@@ -1,2 +1,2 @@
-# IASA_RegressionAnalysis
-IASA KPI mathemetical statistics course 4 semester "Regression Analysis"
+# IASA Labs
+IASA KPI Probability Theory & Mathematical Statistics courses 3-4 semesters
